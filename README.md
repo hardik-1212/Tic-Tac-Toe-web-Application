@@ -1,6 +1,6 @@
-# 🧮 Calculator Web App
+# 🧮 Tic Tac Toe Web App
 
-A modern and responsive calculator built using **HTML, CSS, and JavaScript**. This project performs basic arithmetic operations through a clean, intuitive interface.
+A modern and responsive Game built using **HTML, CSS, and JavaScript**. This project performs basic arithmetic operations through a clean, intuitive interface.
 
 ## ✨ Features
 
@@ -34,10 +34,10 @@ calculator-web-app/
 
 ## 📈 Future Improvements
 
-- Scientific calculator mode
-- Keyboard support
-- Calculation history
 - Dark/Light mode
+- UI/UX improvement
+- New fun themes
+- More options
 
 ## 👨‍💻 Author
 
