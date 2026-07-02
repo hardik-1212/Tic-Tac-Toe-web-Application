@@ -1,14 +1,14 @@
-# 🧮 Tic Tac Toe Web App
+# 🎮 Tic Tac Toe Game
 
-A modern and responsive Game built using **HTML, CSS, and JavaScript**. This project performs basic arithmetic operations through a clean, intuitive interface.
+A fun and interactive **Tic Tac Toe** game developed using **HTML, CSS, and JavaScript**. Play against a friend in a responsive and visually appealing interface.
 
 ## ✨ Features
 
+- Two-player gameplay
 - Responsive design
-- Basic arithmetic operations
+- Win and draw detection
+- Restart game option
 - Clean and modern UI
-- User-friendly interface
-- Fast and lightweight
 
 ## 🛠️ Technologies Used
 
@@ -16,10 +16,11 @@ A modern and responsive Game built using **HTML, CSS, and JavaScript**. This pro
 - CSS3
 - JavaScript
 
+
 ## 📂 Project Structure
 
 ```
-calculator-web-app/
+tic-tac-toe-game/
 │── index.html
 │── style.css
 │── script.js
@@ -29,15 +30,17 @@ calculator-web-app/
 
 ## 🚀 Getting Started
 
-1. Clone this repository.
+1. Clone the repository.
 2. Open `index.html` in your browser.
+3. Start playing!
 
 ## 📈 Future Improvements
 
-- Dark/Light mode
-- UI/UX improvement
-- New fun themes
-- More options
+- Play against AI
+- Scoreboard
+- Sound effects
+- Dark mode
+- Online multiplayer
 
 ## 👨‍💻 Author
 
@@ -45,4 +48,4 @@ Made with ❤️ by Hardik
 
 ---
 
-⭐ If you found this project useful, please consider starring the repository!
+⭐ If you enjoyed this project, don't forget to star the repository!
